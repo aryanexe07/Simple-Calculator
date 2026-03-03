@@ -1,5 +1,5 @@
-# MakeShift-Calculator
-a makeshift calculator that i made to pass my time
+# Simple-Calculator
+a simple calculator that i made to pass my time
 Say less 😌
 
 ---
